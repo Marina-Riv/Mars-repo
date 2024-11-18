@@ -1,1 +1,1 @@
-# This repository contains five projects each of which use different tools to approach the objectives
+# This repository contains five projects each of which uses different tools to approach a particular objective
