@@ -3,7 +3,7 @@
 
 # <div class="alert alert-block alert-info" style="background-color: #00CED1; border-color: #4682B4; color: #FFFFFF;">
 #     <b>Introducción:</b> <a class="tocSkip"></a>
-#     Recientemente ha habido una disminución en los usuarios de BetaBank. Estratégicamente es mejor salvar los clientes existentes que atraer nuevos. Es por ello, que basado en los datos pasados de comportamiento de clientes y contratos de terminación, es necesario crear un modelo para predecir qué clientes es probable que terminen contrato con el banco.  
+#     Recientemente ha habido una disminución de los usuarios de BetaBank. Estratégicamente es mejor salvar los clientes existentes que atraer nuevos. Es por ello, que basado en los datos pasados de comportamiento de clientes y contratos de terminación, es necesario crear un modelo para predecir qué clientes es probable que terminen contrato con el banco.  
 # </div>
 
 # <div class="alert alert-block alert-info" style="background-color: #AFEEEE; border-color: #4682B4; color: #4682B4;">
