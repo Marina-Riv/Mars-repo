@@ -3,7 +3,7 @@
 
 # <div class="alert alert-block alert-info" style="background-color: #E6CBDD; border-color: #3E3C3C; color: #A52A2A;">
 #     <b>Introduccion:</b> <a class="tocSkip"></a>
-#     La tienda online Ice necesita que le ayude a planificar campañas publicitarias mediante reseñas de usuarios y expertos de videojuegos, plataformas y consolas. Para ello es necesario identificar los videojuegos, consolas y plataformas más populares para detectar proyectos prometedores.
+#     La tienda online Ice necesita un modelo para planificar campañas publicitarias, esto se puede lograr analizando reseñas de usuarios y expertos de videojuegos sobre la popularidad de plataformas y consolas. 
 # </div>
 
 # In[ ]:
