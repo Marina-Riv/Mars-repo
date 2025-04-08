@@ -3,7 +3,7 @@
 
 # <div class="alert alert-block alert-info" style="background-color: #DA70D6; border-color: #800080; color: #000000;">
 #     <b>Introducción:</b> <a class="tocSkip"></a>
-#     La compañía Megaline necesita un modelo que pueda analizar el comportamiento de sus usuarios para recomendar uno de sus nuevos planes: Smart o Ultra que tenga un humbral de exactitud de 0.75  
+#     Debido al reciente cambio de los planes telefonicos la compañía Megaline necesita un modelo que pueda analizar el comportamiento de sus usuarios para recomendar uno de sus nuevos planes: Smart o Ultra que tenga un humbral de exactitud de 0.75  
 # </div>
 
 # <div class="alert alert-block alert-info" style="background-color: #DDB0DD; border-color: #800080; color: #8B008B;">
