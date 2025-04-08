@@ -3,7 +3,7 @@
 
 # <div class="alert alert-block alert-info" style="background-color: #DA70D6; border-color: #800080; color: #8B008B;">
 #     <b>Introduccion:</b> <a class="tocSkip"></a>
-#     Con la informacion de los viajes de diversas compañías de taxis la empresa Zuber busca identificar los destinos más populares en Chicago y visualizar de qué forma el clima impacta los viajes para establecer un sistema de transporte.  
+#     Para establecer un sistema de transporte eficiente, es necesario crear un modelo que identifique los destinos mas populares utilizando la informacion de los viajes de diversas compañías de taxis la empresa Zuber en Chicago y visualizar de qué forma el clima impacta los viajes.  
 # </div>
 
 # In[1]:
