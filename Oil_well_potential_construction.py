@@ -3,7 +3,7 @@
 
 # <div class="alert alert-block alert-info" style="background-color: #F4A460; border-color: #FFFFFF; color: #8B008B;">
 #     <b>Introducción:</b> <a class="tocSkip"></a>
-#       La empresa OilyGiant busca abrir 200 pozos nuevos de petróleo, con la ayuda de un modelo y datos sobre muestras de producto de tres regiones se pretende elegir el lugar con mayor margen de beneficio y menor riesgo de pérdidas. 
+#       La empresa OilyGiant busca abrir 200 pozos nuevos de petróleo, la ubicacion es curcial para el éxito de estos nuevos pozos por lo que con la ayuda de un modelo y datos sobre muestras de producto de tres regiones se pretende elegir el lugar con mayor margen de beneficio y menor riesgo de pérdidas. 
 # </div>
 
 # <div class="alert alert-block alert-info" style="background-color: #8B008B; border-color: #FFFFFF; color: #F4A460;">
